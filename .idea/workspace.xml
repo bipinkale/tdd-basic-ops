@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1Y4oCBav2UTLBE5XkWWzSOQNBWK" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.PythagoreanTest">
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeTest.assertIsNotPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PalindromeTest" />
+      <option name="METHOD_NAME" value="assertIsNotPalindrome(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeTest.assertIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PalindromeTest" />
+      <option name="METHOD_NAME" value="assertIsPalindrome(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PrimeFactorsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PythagoreanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PythagoreanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PythagoreanTest" />
+        <item itemvalue="JUnit.PrimeFactorsTest" />
+        <item itemvalue="JUnit.PalindromeTest.assertIsNotPalindrome" />
+        <item itemvalue="JUnit.PalindromeTest.assertIsPalindrome" />
+        <item itemvalue="JUnit.FizzBuzzTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1582211217833">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582211217833" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1582211217832">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582211217832" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1582211217832">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582211217832" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1582211217832">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582211217832" />
+  </component>
+</project>
