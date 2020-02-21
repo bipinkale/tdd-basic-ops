@@ -55,7 +55,7 @@ class AggregateFunctionsTest {
         }
 
         @Test
-        fun `max(max(50, 4), max()) is 4`() {
+        fun `max(max(50, 4), max()) is 50`() {
             assertEquals(50, max(max(50, 4), max()))
         }
 
