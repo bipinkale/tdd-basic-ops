@@ -81,13 +81,12 @@ class AggregateFunctionsTest {
 
         @Test
         fun `count() is 0`() {
-            assertEquals(-0, count())
+            assertEquals(0, count())
         }
 
         companion object {
             @JvmStatic
             fun numbersAndCount() = listOf<Numbers>(
-                    Numbers(0),
                     Numbers(1, 0),
                     Numbers(2, 0, -1),
                     Numbers(3, -1, 0, 1),
@@ -117,7 +116,6 @@ class AggregateFunctionsTest {
         companion object {
             @JvmStatic
             fun numbersAndAvg() = listOf<NumbersForAvg>(
-                    NumbersForAvg(Double.NaN),
                     NumbersForAvg(0.5, 0, 1),
                     NumbersForAvg(1.33, -1, 1, 4),
                     NumbersForAvg(0.0, -1, 0, 1),

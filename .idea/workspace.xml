@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dc34e8e0-9c7d-47b7-b05e-8f31e85c5319" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/noovosoft/training/tddjavacrash/lab1/Factorial.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noovosoft/training/tddjavacrash/lab1/Factorial.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/noovosoft/training/tddjavacrash/lab1/Pythagorean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noovosoft/training/tddjavacrash/lab1/Pythagorean.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/noovosoft/training/tddjavacrash/lab1/AggregateFunctionsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/noovosoft/training/tddjavacrash/lab1/AggregateFunctionsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/noovosoft/training/tddjavacrash/lab1/PythagoreanTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/noovosoft/training/tddjavacrash/lab1/PythagoreanTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +29,53 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.PythagoreanTest">
+  <component name="RunManager" selected="JUnit.FactorialTest">
+    <configuration name="FactorialTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.FactorialTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialTest.assertFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.FactorialTest" />
+      <option name="METHOD_NAME" value="assertFactorial(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd-basic-ops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
+      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.FibonacciTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd-basic-ops" />
       <extension name="coverage">
@@ -37,53 +86,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
       <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.FizzBuzzTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeTest.assertIsNotPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd-basic-ops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
-      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PalindromeTest" />
-      <option name="METHOD_NAME" value="assertIsNotPalindrome(java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeTest.assertIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd-basic-ops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
-      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PalindromeTest" />
-      <option name="METHOD_NAME" value="assertIsPalindrome(java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tdd-basic-ops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.noovosoft.training.tddjavacrash.lab1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.noovosoft.training.tddjavacrash.lab1" />
-      <option name="MAIN_CLASS_NAME" value="com.noovosoft.training.tddjavacrash.lab1.PrimeFactorsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FactorialTest" />
         <item itemvalue="JUnit.PythagoreanTest" />
-        <item itemvalue="JUnit.PrimeFactorsTest" />
-        <item itemvalue="JUnit.PalindromeTest.assertIsNotPalindrome" />
-        <item itemvalue="JUnit.PalindromeTest.assertIsPalindrome" />
         <item itemvalue="JUnit.FizzBuzzTest" />
+        <item itemvalue="JUnit.FibonacciTest" />
+        <item itemvalue="JUnit.FactorialTest.assertFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +127,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582211097336</updated>
       <workItem from="1582211100122" duration="984000" />
-      <workItem from="1582260812145" duration="6185000" />
+      <workItem from="1582260812145" duration="6709000" />
+      <workItem from="1582287129014" duration="3015000" />
     </task>
     <servers />
   </component>
@@ -137,22 +140,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582266489900" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1582213240886">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1582295737403">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582213240886" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1582213240886">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582295737403" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1582295737403">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582213240886" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1582213240885">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582295737403" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1582295737403">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582213240885" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1582213240886">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582295737403" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1582295737403">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582213240886" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582295737403" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582260816502">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
